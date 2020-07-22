@@ -1,0 +1,3 @@
+[submodule "themes/apache2"]
+	path = themes/apache2
+	url = https://git.fanyx.xyz/fanyx/hugo-theme-apache2.git

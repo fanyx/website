@@ -1,0 +1,13 @@
+baseURL: "https://fanyx.xyz"
+languageCode: "en-us"
+title: "~~ Fanyx ~~"
+metaDataFormat: "yaml"
+theme: "apache2"
+
+author:
+  name: "Fanyx"
+
+params:
+  desc: ""
+  dateFormat: "2006-01-02"
+
